@@ -1,0 +1,36 @@
+{
+  "name": "quicknote",
+  "version": "0.1.0",
+  "description": "Quick note, quickly note something from your terminal",
+  "main": "index.js",
+  "scripts": {
+    "test": "standard"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/deoxen0n2/quicknote.git"
+  },
+  "keywords": [
+    "quicknote",
+    "quick",
+    "note",
+    "cli",
+    "command",
+    "line"
+  ],
+  "author": "Saran Siriphantnon",
+  "license": "MIT",
+  "bin": {
+    "quicknote": "index.js"
+  },
+  "bugs": {
+    "url": "https://github.com/deoxen0n2/quicknote/issues"
+  },
+  "homepage": "https://github.com/deoxen0n2/quicknote#readme",
+  "dependencies": {
+    "lowdb": "^0.10.2",
+    "mkdirp": "^0.5.1",
+    "tmp-editor": "^0.1.0",
+    "user-home": "^2.0.0"
+  }
+}

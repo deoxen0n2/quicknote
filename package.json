@@ -1,7 +1,7 @@
 {
   "name": "quicknote",
   "version": "0.1.0",
-  "description": "Quick note, quickly note something from your terminal",
+  "description": "Quicknote, quickly note something from your terminal",
   "main": "index.js",
   "scripts": {
     "test": "standard"
